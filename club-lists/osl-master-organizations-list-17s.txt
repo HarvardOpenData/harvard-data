@@ -92,7 +92,6 @@ CityStep
 CIVICS (PBHA)
 Classics Club
 Climbing
-Club Sports
 Coalition for East African Peace
 Code Orange
 College Bowl
@@ -168,7 +167,7 @@ Expressions
 Faith and Action (HCFA)
 Fallen Angels
 Fencing
-Field Hockey 
+Field Hockey
 Figure Skating
 Film Festival
 Financial Analysts Club
@@ -416,7 +415,7 @@ Seventh-day Adventist Fellowship (HCSDAF)
 Sexual Health and Relationship Counselors (SHARC)
 Sexual Health Education & Advocacy throughout Harvard College (SHEATH)
 SHADE
-Shooting 
+Shooting
 Shotokan Karate
 Sikh Student Association
 Simplicissimus

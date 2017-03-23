@@ -13,6 +13,10 @@ We've compiled a full list of all the student organizations at Harvard, includin
 - [Club sports list](http://recreation.gocrimson.com/recreation/club_sports/active_clubsports)
 - [ISOs and PBHA clubs](http://osl.fas.harvard.edu/student-organizations)
 
+## Generating lists
+
+You can use most of the data sources as they are. However, **ignore** the ISO titled "Club Sports" from the [official ISOs list](http://osl.fas.harvard.edu/student-organizations). That isn't useful, and when combined with the actual club sports dataset, causes problems.
+
 ## About
 
 This dataset was compiled by the Harvard Undergraduate Council, our undergraduate student body government, and [Neel Mehta](https://github.com/hathix), the Finance Committee Chair.

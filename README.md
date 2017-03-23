@@ -1,6 +1,10 @@
 # Harvard Open Datasets
 
-Found a cool, open dataset about Harvard? You can host it here!
+Found a cool, open dataset about Harvard that doesn't have a home? You can host it here!
+
+## List of datasets available here
+
+- `club-lists`: a full list of all undergraduate student organizations and club sports at Harvard.
 
 ## Contributing
 
