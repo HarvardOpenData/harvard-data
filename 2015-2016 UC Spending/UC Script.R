@@ -1,0 +1,6 @@
+data <- readRDS("~/UC Data.RData")
+ru <- read_csv("~/ru.csv")
+t.test(ru$'Retroactive Nonzero', ru$'Upfront Nonzero', paired = TRUE)
+t.test(ru$'Retroactive Nonzero', ru$'Upfront Nonzero', paired = FALSE)
+byclub <-aggregate(cbind(data$requested, data$allocated, data$count), list(club = data$club), sum)
+plot(data$number, data$ratio, main="Ratio of Allocated to Requested",xlab = "Grant Number ", ylab="Ratio ")
