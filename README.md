@@ -5,6 +5,7 @@ Found a cool, open dataset about Harvard that doesn't have a home? You can host 
 ## List of datasets available here
 
 - `club-lists`: a full list of all undergraduate student organizations and club sports at Harvard.
+- [harvard-student-organizations](https://github.com/tobiasbueschel/harvard-student-organizations): an NPM module that exposes a list of all student organizations at Harvard.
 
 ## Contributing
 
