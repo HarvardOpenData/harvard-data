@@ -7,6 +7,8 @@ Found a cool, open dataset about Harvard that doesn't have a home? You can host 
 > **NOTE:** this list only mentions datasets hosted on this GitHub repositry. If you'd like to submit an open dataset to the [HODP catalog](http://harvard-open-data-project.github.io/), please share it with us [on our website](http://harvard-open-data-project.github.io/). This repo is only for hosting dataset files.
 
 - `club-lists`: a full list of all undergraduate student organizations and club sports at Harvard.
+- `concentrations-and-class-enrollment`: data about the number of students in each of Harvard's concentrations over time
+- `2015-2016 UC Spending`: open data about Harvard's Undergraduate Council's funding to student groups
 
 ## Contributing
 
