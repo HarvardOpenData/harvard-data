@@ -20,7 +20,6 @@ Asian Baptist Student Koinonia (ABSK)
 Aspiring Minority Business Leaders and Entrepreneurs (AMBLE)
 Association for the Promotion of Interplanetary Expansion (HAPIE)
 Association for U.S.-China Relations (HAUSCR)
-Association of Black Harvard Women (ABHW)
 Association of Practice and Learning of Yan Xin Life Science & Technology
 Astrophysical Society
 Athena Conference
@@ -41,7 +40,6 @@ Biomedical Engineering Society (BMES)
 Biotechnology Association
 Black Men's Forum (BMF)
 Black Pre-Law Association (BPLA)
-Black Students Association (BSA)
 BlackC.A.S.T.
 Bowling
 Boxing
@@ -184,6 +182,7 @@ Hellenic Society
 Hillel
 Holoimua O Hawaii
 Honor Council
+HRDC (Harvard--Radcliffe Dramatic Club)
 Human Rights in North Korea (HRiNK)
 Hyperion Shakespeare Company
 IDENTITIES Fashion Show
@@ -274,6 +273,7 @@ Pan-African Dance and Music Ensemble (PADAME)
 Partners in Health Engage
 Passus: Harvard College Step Team
 Philippine Forum
+Photography Club
 Piano Society
 Pistol
 Political Review (HPR)
@@ -323,6 +323,7 @@ Senior Class Committee
 Seventh-day Adventist Fellowship (HCSDAF)
 Sexual Health and Relationship Counselors (SHARC)
 Sexual Health Education & Advocacy throughout Harvard College (SHEATH)
+SHADE
 Shooting
 Shotokan Karate
 Sikh Student Association
