@@ -1,177 +1,173 @@
-Default Report
-Last Modified: 2017-03-12 11:14:05 MDT
-
-
-Q1 - What House were you assigned to?
-#,Answer,%,Count
-,Total,100%,615
-7,Leverett,10.57%,65
-5,Eliot,9.92%,61
-10,Pforzheimer,9.92%,61
-1,Adams,9.76%,60
-2,Cabot,9.76%,60
-6,Kirkland,8.46%,52
-8,Lowell,8.46%,52
-9,Mather,7.32%,45
-11,Quincy,7.32%,45
-3,Currier,6.67%,41
-12,Winthrop,6.02%,37
-4,Dunster,5.85%,36
-
+Q1 - What House were you assigned to?,,,,,,,,,,,,,,,,,,,,,,,,,
+#,Answer,%,Count,,,,,,,,,,,,,,,,,,,,,,
+,Total,100%,615,,,,,,,,,,,,,,,,,,,,,,
+7,Leverett,10.57%,65,,,,,,,,,,,,,,,,,,,,,,
+5,Eliot,9.92%,61,,,,,,,,,,,,,,,,,,,,,,
+10,Pforzheimer,9.92%,61,,,,,,,,,,,,,,,,,,,,,,
+1,Adams,9.76%,60,,,,,,,,,,,,,,,,,,,,,,
+2,Cabot,9.76%,60,,,,,,,,,,,,,,,,,,,,,,
+6,Kirkland,8.46%,52,,,,,,,,,,,,,,,,,,,,,,
+8,Lowell,8.46%,52,,,,,,,,,,,,,,,,,,,,,,
+9,Mather,7.32%,45,,,,,,,,,,,,,,,,,,,,,,
+11,Quincy,7.32%,45,,,,,,,,,,,,,,,,,,,,,,
+3,Currier,6.67%,41,,,,,,,,,,,,,,,,,,,,,,
+12,Winthrop,6.02%,37,,,,,,,,,,,,,,,,,,,,,,
+4,Dunster,5.85%,36,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
 "Q2 - How satisfied are you with your House assignement?
-0 being completely dissatisfied, 10 being the most satisfied."
-
-
-Q3 - Do you have parents or siblings who attend(ed) Harvard?
-#,Answer,%,Count
-1,Yes,21.46%,132
-2,No,78.54%,483
-,Total,100%,615
-
-"Q4 - If so, were you placed in the same house as your relative?"
-#,Answer,%,Count
-1,Yes,3.71%,16
-2,No,91.88%,396
-3,I have multiple family members who were in different Houses.,4.41%,19
-,Total,100%,431
-
-Q5 - Are you a varsity athlete at Harvard?
-#,Answer,%,Count
-1,Yes,15.28%,94
-2,No,84.72%,521
-,Total,100%,615
-
-"Q13 - If you are an athlete, what sport do you play?"
-Adams
-"If you are an athlete, what sport do you play?",What House were you assigned to?
-Rugby,Adams
-lacrosse,Adams
-"football ",Adams
-Diving,Adams
-Rugby,Adams
-Hockey,Adams
-Rugby,Adams
-Alpine Skiing,Adams
-
-Cabot
-"If you are an athlete, what sport do you play?",What House were you assigned to?
-Fencing,Cabot
-Track,Cabot
-crew,Cabot
-Swimming,Cabot
-Track,Cabot
-Fencing,Cabot
-
-Currier
-"If you are an athlete, what sport do you play?",What House were you assigned to?
-Track/XC,Currier
-Cheerleading,Currier
-"Cross country, track and field ",Currier
-
-Dunster
-"If you are an athlete, what sport do you play?",What House were you assigned to?
-Lacrosse,Dunster
-Water polo,Dunster
-"Hockey ",Dunster
-"Volleyball ",Dunster
-
-Eliot
-"If you are an athlete, what sport do you play?",What House were you assigned to?
-Soccer,Eliot
-rowing,Eliot
-Track,Eliot
-"Lacrosse ",Eliot
-Women's Rugby,Eliot
-"Track and field ",Eliot
-Rowing,Eliot
-Track and Field,Eliot
-"Men's Basketball ",Eliot
-Cheer,Eliot
-
-Kirkland
-"If you are an athlete, what sport do you play?",What House were you assigned to?
-Golf,Kirkland
-Water polo,Kirkland
-Crew,Kirkland
-Football,Kirkland
-"Football ",Kirkland
-Football,Kirkland
-soccer,Kirkland
-Golf,Kirkland
-Rugby,Kirkland
-Lightweight Crew,Kirkland
-Volleyball,Kirkland
-
-Leverett
-"If you are an athlete, what sport do you play?",What House were you assigned to?
-Nordic skiing,Leverett
-Crew,Leverett
-Track & Field,Leverett
-crew,Leverett
-Water polo,Leverett
-Cheerleading,Leverett
-Water Polo,Leverett
-Football,Leverett
-Squash,Leverett
-Sailing,Leverett
-Football,Leverett
-
-Lowell
-"If you are an athlete, what sport do you play?",What House were you assigned to?
-Swim,Lowell
-Baseball,Lowell
-Soccer,Lowell
-Baseball,Lowell
-Volleyball,Lowell
-Baseball,Lowell
-Crew,Lowell
-rowing,Lowell
-Harvard Diving,Lowell
-
-Mather
-"If you are an athlete, what sport do you play?",What House were you assigned to?
-Lightweight Crew,Mather
-Lightweight rowing,Mather
-Heavyweight crew,Mather
-Lacrosse,Mather
-Lightweight crew,Mather
-Rowing,Mather
-Women's Lightweight Rowing,Mather
-
-Pforzheimer
-"If you are an athlete, what sport do you play?",What House were you assigned to?
-Track,Pforzheimer
-"Cross country and track ",Pforzheimer
-Heavyweight crew,Pforzheimer
-crew,Pforzheimer
-"Wrestling ",Pforzheimer
-Fencing,Pforzheimer
-Squash,Pforzheimer
-Field Hockey,Pforzheimer
-Softball,Pforzheimer
-Volleyball,Pforzheimer
-
-Quincy
-"If you are an athlete, what sport do you play?",What House were you assigned to?
-Rugby,Quincy
-Swimming,Quincy
-Swimming,Quincy
-"Swimming and Diving ",Quincy
-Crew,Quincy
-"Football ",Quincy
-swimming,Quincy
-
-Winthrop
-"If you are an athlete, what sport do you play?",What House were you assigned to?
-"Ice hockey ",Winthrop
-Rowing,Winthrop
-"Rowing ",Winthrop
-Mens Lightweight Crew,Winthrop
-Ice hockey,Winthrop
-Lightweight Crew,Winthrop
-Men's Heavyweight Crew,Winthrop
-
-Q9 - Please specify your race/ethnicity.
+0 being completely dissatisfied, 10 being the most satisfied.",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Q3 - Do you have parents or siblings who attend(ed) Harvard?,,,,,,,,,,,,,,,,,,,,,,,,,
+#,Answer,%,Count,,,,,,,,,,,,,,,,,,,,,,
+1,Yes,21.46%,132,,,,,,,,,,,,,,,,,,,,,,
+2,No,78.54%,483,,,,,,,,,,,,,,,,,,,,,,
+,Total,100%,615,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+"Q4 - If so, were you placed in the same house as your relative?",,,,,,,,,,,,,,,,,,,,,,,,,
+#,Answer,%,Count,,,,,,,,,,,,,,,,,,,,,,
+1,Yes,3.71%,16,,,,,,,,,,,,,,,,,,,,,,
+2,No,91.88%,396,,,,,,,,,,,,,,,,,,,,,,
+3,I have multiple family members who were in different Houses.,4.41%,19,,,,,,,,,,,,,,,,,,,,,,
+,Total,100%,431,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Q5 - Are you a varsity athlete at Harvard?,,,,,,,,,,,,,,,,,,,,,,,,,
+#,Answer,%,Count,,,,,,,,,,,,,,,,,,,,,,
+1,Yes,15.28%,94,,,,,,,,,,,,,,,,,,,,,,
+2,No,84.72%,521,,,,,,,,,,,,,,,,,,,,,,
+,Total,100%,615,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+"Q13 - If you are an athlete, what sport do you play?",,,,,,,,,,,,,,,,,,,,,,,,,
+Adams,,,,,,,,,,,,,,,,,,,,,,,,,
+"If you are an athlete, what sport do you play?",What House were you assigned to?,,,,,,,,,,,,,,,,,,,,,,,,
+Rugby,Adams,,,,,,,,,,,,,,,,,,,,,,,,
+lacrosse,Adams,,,,,,,,,,,,,,,,,,,,,,,,
+football ,Adams,,,,,,,,,,,,,,,,,,,,,,,,
+Diving,Adams,,,,,,,,,,,,,,,,,,,,,,,,
+Rugby,Adams,,,,,,,,,,,,,,,,,,,,,,,,
+Hockey,Adams,,,,,,,,,,,,,,,,,,,,,,,,
+Rugby,Adams,,,,,,,,,,,,,,,,,,,,,,,,
+Alpine Skiing,Adams,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Cabot,,,,,,,,,,,,,,,,,,,,,,,,,
+"If you are an athlete, what sport do you play?",What House were you assigned to?,,,,,,,,,,,,,,,,,,,,,,,,
+Fencing,Cabot,,,,,,,,,,,,,,,,,,,,,,,,
+Track,Cabot,,,,,,,,,,,,,,,,,,,,,,,,
+crew,Cabot,,,,,,,,,,,,,,,,,,,,,,,,
+Swimming,Cabot,,,,,,,,,,,,,,,,,,,,,,,,
+Track,Cabot,,,,,,,,,,,,,,,,,,,,,,,,
+Fencing,Cabot,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Currier,,,,,,,,,,,,,,,,,,,,,,,,,
+"If you are an athlete, what sport do you play?",What House were you assigned to?,,,,,,,,,,,,,,,,,,,,,,,,
+Track/XC,Currier,,,,,,,,,,,,,,,,,,,,,,,,
+Cheerleading,Currier,,,,,,,,,,,,,,,,,,,,,,,,
+"Cross country, track and field ",Currier,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Dunster,,,,,,,,,,,,,,,,,,,,,,,,,
+"If you are an athlete, what sport do you play?",What House were you assigned to?,,,,,,,,,,,,,,,,,,,,,,,,
+Lacrosse,Dunster,,,,,,,,,,,,,,,,,,,,,,,,
+Water polo,Dunster,,,,,,,,,,,,,,,,,,,,,,,,
+Hockey ,Dunster,,,,,,,,,,,,,,,,,,,,,,,,
+Volleyball ,Dunster,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Eliot,,,,,,,,,,,,,,,,,,,,,,,,,
+"If you are an athlete, what sport do you play?",What House were you assigned to?,,,,,,,,,,,,,,,,,,,,,,,,
+Soccer,Eliot,,,,,,,,,,,,,,,,,,,,,,,,
+rowing,Eliot,,,,,,,,,,,,,,,,,,,,,,,,
+Track,Eliot,,,,,,,,,,,,,,,,,,,,,,,,
+Lacrosse ,Eliot,,,,,,,,,,,,,,,,,,,,,,,,
+Women's Rugby,Eliot,,,,,,,,,,,,,,,,,,,,,,,,
+Track and field ,Eliot,,,,,,,,,,,,,,,,,,,,,,,,
+Rowing,Eliot,,,,,,,,,,,,,,,,,,,,,,,,
+Track and Field,Eliot,,,,,,,,,,,,,,,,,,,,,,,,
+Men's Basketball ,Eliot,,,,,,,,,,,,,,,,,,,,,,,,
+Cheer,Eliot,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Kirkland,,,,,,,,,,,,,,,,,,,,,,,,,
+"If you are an athlete, what sport do you play?",What House were you assigned to?,,,,,,,,,,,,,,,,,,,,,,,,
+Golf,Kirkland,,,,,,,,,,,,,,,,,,,,,,,,
+Water polo,Kirkland,,,,,,,,,,,,,,,,,,,,,,,,
+Crew,Kirkland,,,,,,,,,,,,,,,,,,,,,,,,
+Football,Kirkland,,,,,,,,,,,,,,,,,,,,,,,,
+Football ,Kirkland,,,,,,,,,,,,,,,,,,,,,,,,
+Football,Kirkland,,,,,,,,,,,,,,,,,,,,,,,,
+soccer,Kirkland,,,,,,,,,,,,,,,,,,,,,,,,
+Golf,Kirkland,,,,,,,,,,,,,,,,,,,,,,,,
+Rugby,Kirkland,,,,,,,,,,,,,,,,,,,,,,,,
+Lightweight Crew,Kirkland,,,,,,,,,,,,,,,,,,,,,,,,
+Volleyball,Kirkland,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Leverett,,,,,,,,,,,,,,,,,,,,,,,,,
+"If you are an athlete, what sport do you play?",What House were you assigned to?,,,,,,,,,,,,,,,,,,,,,,,,
+Nordic skiing,Leverett,,,,,,,,,,,,,,,,,,,,,,,,
+Crew,Leverett,,,,,,,,,,,,,,,,,,,,,,,,
+Track & Field,Leverett,,,,,,,,,,,,,,,,,,,,,,,,
+crew,Leverett,,,,,,,,,,,,,,,,,,,,,,,,
+Water polo,Leverett,,,,,,,,,,,,,,,,,,,,,,,,
+Cheerleading,Leverett,,,,,,,,,,,,,,,,,,,,,,,,
+Water Polo,Leverett,,,,,,,,,,,,,,,,,,,,,,,,
+Football,Leverett,,,,,,,,,,,,,,,,,,,,,,,,
+Squash,Leverett,,,,,,,,,,,,,,,,,,,,,,,,
+Sailing,Leverett,,,,,,,,,,,,,,,,,,,,,,,,
+Football,Leverett,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Lowell,,,,,,,,,,,,,,,,,,,,,,,,,
+"If you are an athlete, what sport do you play?",What House were you assigned to?,,,,,,,,,,,,,,,,,,,,,,,,
+Swim,Lowell,,,,,,,,,,,,,,,,,,,,,,,,
+Baseball,Lowell,,,,,,,,,,,,,,,,,,,,,,,,
+Soccer,Lowell,,,,,,,,,,,,,,,,,,,,,,,,
+Baseball,Lowell,,,,,,,,,,,,,,,,,,,,,,,,
+Volleyball,Lowell,,,,,,,,,,,,,,,,,,,,,,,,
+Baseball,Lowell,,,,,,,,,,,,,,,,,,,,,,,,
+Crew,Lowell,,,,,,,,,,,,,,,,,,,,,,,,
+rowing,Lowell,,,,,,,,,,,,,,,,,,,,,,,,
+Harvard Diving,Lowell,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Mather,,,,,,,,,,,,,,,,,,,,,,,,,
+"If you are an athlete, what sport do you play?",What House were you assigned to?,,,,,,,,,,,,,,,,,,,,,,,,
+Lightweight Crew,Mather,,,,,,,,,,,,,,,,,,,,,,,,
+Lightweight rowing,Mather,,,,,,,,,,,,,,,,,,,,,,,,
+Heavyweight crew,Mather,,,,,,,,,,,,,,,,,,,,,,,,
+Lacrosse,Mather,,,,,,,,,,,,,,,,,,,,,,,,
+Lightweight crew,Mather,,,,,,,,,,,,,,,,,,,,,,,,
+Rowing,Mather,,,,,,,,,,,,,,,,,,,,,,,,
+Women's Lightweight Rowing,Mather,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Pforzheimer,,,,,,,,,,,,,,,,,,,,,,,,,
+"If you are an athlete, what sport do you play?",What House were you assigned to?,,,,,,,,,,,,,,,,,,,,,,,,
+Track,Pforzheimer,,,,,,,,,,,,,,,,,,,,,,,,
+Cross country and track ,Pforzheimer,,,,,,,,,,,,,,,,,,,,,,,,
+Heavyweight crew,Pforzheimer,,,,,,,,,,,,,,,,,,,,,,,,
+crew,Pforzheimer,,,,,,,,,,,,,,,,,,,,,,,,
+Wrestling ,Pforzheimer,,,,,,,,,,,,,,,,,,,,,,,,
+Fencing,Pforzheimer,,,,,,,,,,,,,,,,,,,,,,,,
+Squash,Pforzheimer,,,,,,,,,,,,,,,,,,,,,,,,
+Field Hockey,Pforzheimer,,,,,,,,,,,,,,,,,,,,,,,,
+Softball,Pforzheimer,,,,,,,,,,,,,,,,,,,,,,,,
+Volleyball,Pforzheimer,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Quincy,,,,,,,,,,,,,,,,,,,,,,,,,
+"If you are an athlete, what sport do you play?",What House were you assigned to?,,,,,,,,,,,,,,,,,,,,,,,,
+Rugby,Quincy,,,,,,,,,,,,,,,,,,,,,,,,
+Swimming,Quincy,,,,,,,,,,,,,,,,,,,,,,,,
+Swimming,Quincy,,,,,,,,,,,,,,,,,,,,,,,,
+Swimming and Diving ,Quincy,,,,,,,,,,,,,,,,,,,,,,,,
+Crew,Quincy,,,,,,,,,,,,,,,,,,,,,,,,
+Football ,Quincy,,,,,,,,,,,,,,,,,,,,,,,,
+swimming,Quincy,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Winthrop,,,,,,,,,,,,,,,,,,,,,,,,,
+"If you are an athlete, what sport do you play?",What House were you assigned to?,,,,,,,,,,,,,,,,,,,,,,,,
+Ice hockey ,Winthrop,,,,,,,,,,,,,,,,,,,,,,,,
+Rowing,Winthrop,,,,,,,,,,,,,,,,,,,,,,,,
+Rowing ,Winthrop,,,,,,,,,,,,,,,,,,,,,,,,
+Mens Lightweight Crew,Winthrop,,,,,,,,,,,,,,,,,,,,,,,,
+Ice hockey,Winthrop,,,,,,,,,,,,,,,,,,,,,,,,
+Lightweight Crew,Winthrop,,,,,,,,,,,,,,,,,,,,,,,,
+Men's Heavyweight Crew,Winthrop,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Q9 - Please specify your race/ethnicity.,,,,,,,,,,,,,,,,,,,,,,,,,
 #,Question,Adams,,Cabot,,Currier,,Dunster,,Eliot,,Kirkland,,Leverett,,Lowell,,Mather,,Pforzheimer,,Quincy,,Winthrop,
 ,Total,Total,59,Total,60,Total,41,Total,35,Total,61,Total,51,Total,65,Total,52,Total,45,Total,61,Total,45,Total,36
 1,White,67.80%,40,45.00%,27,68.29%,28,51.43%,18,59.02%,36,70.59%,36,60.00%,39,57.69%,30,62.22%,28,54.10%,33,51.11%,23,63.89%,23
@@ -181,33 +177,33 @@ Q9 - Please specify your race/ethnicity.
 3,American Indian or Alaska Native,0.00%,0,1.67%,1,4.88%,2,0.00%,0,0.00%,0,0.00%,0,4.62%,3,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0
 5,Native Hawaiian or Pacific Islander,0.00%,0,0.00%,0,2.44%,1,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0
 7,I prefer not to answer,0.00%,0,3.33%,2,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,1.92%,1,0.00%,0,0.00%,0,2.22%,1,0.00%,0
-
-Q6 - What was the size of your blocking group (including you)?
-Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
-Blocking group size:,1.00,8.00,6.36,1.86,3.46,615
-
-Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
-Winthrop,1.00,8.00,7.03,1.95,3.81,37
-Currier,2.00,8.00,6.90,1.45,2.09,41
-Cabot,1.00,8.00,6.72,1.83,3.34,60
-Pforzheimer,1.00,8.00,6.67,1.69,2.84,61
-Leverett,1.00,8.00,6.63,1.84,3.37,65
-Kirkland,1.00,8.00,6.23,1.71,2.91,52
-Mather,1.00,8.00,6.20,1.88,3.54,45
-Lowell,1.00,8.00,6.17,1.77,3.14,52
-Dunster,1.00,8.00,6.08,2.24,5.02,36
-Quincy,1.00,8.00,6.00,1.87,3.51,45
-Eliot,1.00,8.00,5.95,2.00,3.98,61
-Adams,2.00,8.00,5.88,1.67,2.80,60
-
-Q7 - Did your blocking group link with another group?
-#,Answer,%,Count
-1,Yes,72.03%,443
-2,No,27.97%,172
-,Total,100%,615
-
-Q12 - Did you fill out our first survey on House preferences?
-#,Answer,%,Count
-1,Yes,48.12%,294
-2,No,51.88%,317
-,Total,100%,611
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Q6 - What was the size of your blocking group (including you)?,,,,,,,,,,,,,,,,,,,,,,,,,
+Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count,,,,,,,,,,,,,,,,,,,
+Blocking group size:,1,8,6.36,1.86,3.46,615,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count,,,,,,,,,,,,,,,,,,,
+Winthrop,1,8,7.03,1.95,3.81,37,,,,,,,,,,,,,,,,,,,
+Currier,2,8,6.9,1.45,2.09,41,,,,,,,,,,,,,,,,,,,
+Cabot,1,8,6.72,1.83,3.34,60,,,,,,,,,,,,,,,,,,,
+Pforzheimer,1,8,6.67,1.69,2.84,61,,,,,,,,,,,,,,,,,,,
+Leverett,1,8,6.63,1.84,3.37,65,,,,,,,,,,,,,,,,,,,
+Kirkland,1,8,6.23,1.71,2.91,52,,,,,,,,,,,,,,,,,,,
+Mather,1,8,6.2,1.88,3.54,45,,,,,,,,,,,,,,,,,,,
+Lowell,1,8,6.17,1.77,3.14,52,,,,,,,,,,,,,,,,,,,
+Dunster,1,8,6.08,2.24,5.02,36,,,,,,,,,,,,,,,,,,,
+Quincy,1,8,6,1.87,3.51,45,,,,,,,,,,,,,,,,,,,
+Eliot,1,8,5.95,2,3.98,61,,,,,,,,,,,,,,,,,,,
+Adams,2,8,5.88,1.67,2.8,60,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Q7 - Did your blocking group link with another group?,,,,,,,,,,,,,,,,,,,,,,,,,
+#,Answer,%,Count,,,,,,,,,,,,,,,,,,,,,,
+1,Yes,72.03%,443,,,,,,,,,,,,,,,,,,,,,,
+2,No,27.97%,172,,,,,,,,,,,,,,,,,,,,,,
+,Total,100%,615,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Q12 - Did you fill out our first survey on House preferences?,,,,,,,,,,,,,,,,,,,,,,,,,
+#,Answer,%,Count,,,,,,,,,,,,,,,,,,,,,,
+1,Yes,48.12%,294,,,,,,,,,,,,,,,,,,,,,,
+2,No,51.88%,317,,,,,,,,,,,,,,,,,,,,,,
+,Total,100%,611,,,,,,,,,,,,,,,,,,,,,,
